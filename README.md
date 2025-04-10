@@ -22,3 +22,5 @@ Power BI Desktop
 Data transformation using Power Query
 
 DAX measures for calculations and custom KPIs
+
+<img src=""/>
