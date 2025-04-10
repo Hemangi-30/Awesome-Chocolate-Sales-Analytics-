@@ -23,4 +23,4 @@ Data transformation using Power Query
 
 DAX measures for calculations and custom KPIs
 
-<img src=""/>
+<img src="https://github.com/Hemangi-30/Awesome-Chocolate-Sales-Analytics-/blob/main/Screenshot%202025-04-10%20214149.png"/>
