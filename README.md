@@ -24,3 +24,26 @@ Data transformation using Power Query
 DAX measures for calculations and custom KPIs
 
 <img src="https://github.com/Hemangi-30/Awesome-Chocolate-Sales-Analytics-/blob/main/Screenshot%202025-04-10%20220755.png"/>
+
+# AtliQ Sales-Insights-Analysis
+## Project Objective 
+An interactive Power BI dashboard that provides key insights into sales performance across regions, customers, and products. The report includes KPIs, trend analysis, top-performing segments, and dynamic slicers for time-based filtering. Designed with a clean and professional layout for better decision-making.
+
+## Dataset of project go thoungh the sql database 
+<a href="https://github.com/Hemangi-30/Sales-Insights-Analysis/blob/main/db_dump.sql">DataSet of AtliQ Sales Insights</a>
+using MYsql Database import the dataset 
+
+## Key Features:
+
+<p>Total Revenue & Sales Quantity KPIs </p>
+<p>Revenue trends over time</p>
+<p>Market-wise and product-wise performance</p>
+<p>Top 5 customers and products</p>
+<p>Interactive slicers for year and month filtering</p>
+
+🔍 Built using Power BI with a focus on data visualization, usability, and business intelligence.
+
+<a href="https://github.com/Hemangi-30/Sales-Insights-Analysis/blob/main/Dashboard.jpg"> View Dashboard </a>
+
+<img src="https://github.com/Hemangi-30/Sales-Insights-Analysis/blob/main/Dashboard.jpg"/>
+
