@@ -43,7 +43,7 @@ using MYsql Database import the dataset
 
 🔍 Built using Power BI with a focus on data visualization, usability, and business intelligence.
 
-<a href="https://github.com/Hemangi-30/Sales-Insights-Analysis/blob/main/Dashboard.jpg"> View Dashboard </a>
+<a href="https://github.com/Hemangi-30/Sales-Dashboard/blob/main/AtliQ%20Sales%20Analysis.png"> View Dashboard </a>
 
-<img src="https://github.com/Hemangi-30/Sales-Insights-Analysis/blob/main/Dashboard.jpg"/>
+<img src="https://github.com/Hemangi-30/Sales-Dashboard/blob/main/AtliQ%20Sales%20Analysis.png"/>
 
