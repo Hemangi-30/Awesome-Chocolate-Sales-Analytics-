@@ -23,7 +23,7 @@ Data transformation using Power Query
 
 DAX measures for calculations and custom KPIs
 
-<img src="https://github.com/Hemangi-30/Awesome-Chocolate-Sales-Analytics-/blob/main/Screenshot%202025-04-10%20220755.png"/>
+<img src="https://github.com/Hemangi-30/Sales-Dashboard/blob/main/Awesome%20Chocolate%20Sales%20Analysis.png"/>
 
 # AtliQ Sales-Insights-Analysis
 ## Project Objective 
